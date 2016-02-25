@@ -4,7 +4,7 @@ import subprocess
 
 s = socket.socket()
 host = '10.40.5.40'
-port = 5567
+port = 5566
 s.connect((host, port))
 
 while True:
